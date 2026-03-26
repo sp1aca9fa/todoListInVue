@@ -6,8 +6,8 @@ A simple to-do list application built with Vue.js to manage tasks with dynamic U
 
 - Display a list of to-do items
 - Mark tasks as completed
-- Add new to-do items (optional feature)
-- Remove existing to-do items (optional feature)
+- Add new to-do items
+- Remove existing to-do items
 - Reactive UI updates using Vue bindings
 
 ## Tech Stack
@@ -15,7 +15,7 @@ A simple to-do list application built with Vue.js to manage tasks with dynamic U
 - Vue.js (via Import Maps)
 - JavaScript (ES Modules)
 - HTML5 & CSS3
-- Bootstrap (optional styling)
+- Bootstrap
 
 ## How It Works
 
