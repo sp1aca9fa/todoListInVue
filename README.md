@@ -30,11 +30,11 @@ A simple to-do list application built with Vue.js to manage tasks with dynamic U
 ```bash
 git clone https://github.com/sp1aca9fa/todoListInVue.git
 cd todoListInVue
-serve
+npx serve
 ```
 
 Open in your browser:
-http://localhost:8000
+http://localhost:3000
 
 ## Learnings
 
